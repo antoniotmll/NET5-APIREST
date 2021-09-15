@@ -95,6 +95,6 @@ namespace Catalog.Controllers
             repository.DeleteItem(id);
 
             return NoContent();
-        }
+        } 
     }
 }
